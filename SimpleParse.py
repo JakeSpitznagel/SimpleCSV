@@ -32,4 +32,4 @@ def parse_file(file):
 s = '1,2\n2,3\n3,4'
 
 if __name__ == "__main__":
-        # parse(s)
+        parse(s)
